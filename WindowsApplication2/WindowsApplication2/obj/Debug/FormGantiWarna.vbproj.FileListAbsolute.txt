@@ -1,0 +1,10 @@
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.FormGanti.resources
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+E:\Kuliah\Semester 3\GUI\project\WindowsApplication2\WindowsApplication2\obj\Debug\FormGantiWarna.vbproj.GenerateResource.Cache
